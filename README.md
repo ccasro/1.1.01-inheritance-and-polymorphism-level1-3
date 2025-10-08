@@ -6,7 +6,7 @@ This repository contains all level 1-3 exercises of Sprint 1.01
 
 ## Technologies used
 
-- Java 17
+- Java 23
 - IntelliJ IDEA
 - Maven 3.9+ (IntelliJ IDEA bundled Maven)
 
