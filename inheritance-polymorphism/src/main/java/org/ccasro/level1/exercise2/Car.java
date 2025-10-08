@@ -1,4 +1,4 @@
-package main.java.org.ccasro.level1.exercise2;
+package org.ccasro.level1.exercise2;
 
 public class Car {
     private static final String brand = "Seat";
