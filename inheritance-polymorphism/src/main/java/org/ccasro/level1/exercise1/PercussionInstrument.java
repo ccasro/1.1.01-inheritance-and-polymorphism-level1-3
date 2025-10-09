@@ -6,7 +6,7 @@ public class PercussionInstrument extends Instrument {
     }
 
     {
-        System.out.println("Instance initialization block in PercussionInstrument");
+        System.out.println("Instance initialization block in PercussionInstrument \n");
     }
 
     public PercussionInstrument(String name, double price) {

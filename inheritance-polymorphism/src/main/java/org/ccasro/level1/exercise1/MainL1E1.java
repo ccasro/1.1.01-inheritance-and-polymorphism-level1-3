@@ -6,7 +6,7 @@ public class MainL1E1 {
         PercussionInstrument drum = new PercussionInstrument("Drum", 200.0);
 
         System.out.println("Class loaded by static member:");
-        System.out.println(StringInstrument.test);
+        System.out.println(StringInstrument.test + "\n");
 
         StringInstrument guitar = new StringInstrument("Guitar", 300.0);
         WindInstrument flute = new WindInstrument("Flute", 100.0);
