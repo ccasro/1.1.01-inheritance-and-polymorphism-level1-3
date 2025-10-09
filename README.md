@@ -1,22 +1,35 @@
 # 1.01-inheritance-and-polymorphism-level1-3
 
-## Description
+## 📄 Description
 
-This repository contains all level 1-3 exercises of Sprint 1.01
+This repository contains Java exercises that practice object-oriented programming, inheritance, interfaces, and static
+members:
 
-## Technologies used
+- **Musical Instruments** – Models wind, string, and percussion instruments with a play() method. Demonstrates class
+  loading
+  and static members.
+- **Car Class & Methods** – Creates a Car with static, final, and instance attributes, plus static (brake()) and
+  non-static (accelerate()) methods to illustrate their usage.
+- **Smartphone & Interfaces** – Implements a Smartphone class extending Phone and implementing Camera and Clock
+  interfaces,
+  practicing inheritance and method overriding.
+- **Sports News Management** – Manages news articles for various sports, with editors, scores, and prices. Includes a
+  menu
+  to add/remove editors, add/remove articles, and calculate article scores and prices.
+
+## 💻 Technologies used
 
 - Java 23
 - IntelliJ IDEA
 - Maven 3.9+ (IntelliJ IDEA bundled Maven)
 
-## Requirements
+## 📋 Requirements
 
 - Java 17 or higher
 - Maven installed (bundled with IntelliJ is enough)
 - IDE capable of running Java projects (e.g., IntelliJ IDEA, Eclipse)
 
-## Installation
+## 🛠️ Installation
 
 1. Clone the repository:
 
@@ -27,15 +40,15 @@ git clone https://github.com/ccasro/1.01-inheritance-and-polymorphism-level1-3.g
 2. Open the project in your IDE (e.g., IntelliJ IDEA)
 3. Ensure Maven dependencies are downloaded automatically
 
-## Execution
+## ▶️ Execution
 
-This repository contains multiple exercises (4). To run a specific exercise, execute the corresponding 'main' class.
+This repository contains multiple exercises (4). To run a specific exercise, execute the corresponding **'main'** class.
 
-## Deployment
+## 🌐 Deployment
 
 No production deployment is required for this exercise
 
-## Contributions
+## 🤝 Contributions
 
 - Use the main branch for development.
 - Make small, frequent commits following Conventional Commits.
